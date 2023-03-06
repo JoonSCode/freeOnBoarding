@@ -1,0 +1,6 @@
+framework module Pods_FreeOnBoarding {
+  umbrella header "Pods-FreeOnBoarding-umbrella.h"
+
+  export *
+  module * { export * }
+}
